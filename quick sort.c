@@ -38,7 +38,7 @@ for(i=0;i<size;i++)
         printf("\n");
     }
     printf("\n the minimum and the maximum element of the sorted list is");
-    printf("\n %d%d",arr[0],arr[]);
+    printf("\n %d%d",arr[0],arr[size-1]);
 }
 int main()
 {
